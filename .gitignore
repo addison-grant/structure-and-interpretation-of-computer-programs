@@ -1,6 +1,7 @@
 *.com
 *.bin
 *.bci
-*.rkt~
+*~
 *.rkt#1#
 .DS_Store
+
